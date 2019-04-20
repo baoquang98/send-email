@@ -1,0 +1,5 @@
+!!!IMPORTANT!!!
+To run the script right click on the send_email.ps1 file and select "run with powershell", follow the instructions
+The script now support "tab" instead of ":" (no need to manually adding the ":" character) - read the email_list.txt for context
+Since the email is in html now, i suggest sending draft email first to make sure all the formatting is correct before sending the email out in batch
+
